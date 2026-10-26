@@ -57,12 +57,12 @@ Estou sempre em busca de:
 
 ### 📊 Estatísticas
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gleisson-santos&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gleisson-santos&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gleisson-santos&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=corefusiions&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corefusiion&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corefusiion&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gleisson-santos&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=gleisson-santos&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corefusiion&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=corefusiion&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 <div> 
-  <img src="https://github.com/gleisson-santos/Gleisson-santos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/corefusiion/Gleisson-santos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
